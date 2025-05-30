@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Nirapod](https://github.com/badhon495/Nirapod)
 
-- 👨‍💻 If you want to know more about me [https://badhon495.github.io/](https://badhon495.github.io/)
+- 👨‍💻 Want to know more about me [https://badhon495.github.io/](https://badhon495.github.io/)
 
 - 📫 How to reach me **https://t.me/badhon495**
 
