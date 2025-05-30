@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Nirapod](https://github.com/badhon495/Nirapod)
 
-- 👨‍💻 Want to know more about me [https://badhon495.github.io/](https://badhon495.github.io/)
+- 👨‍💻 Know more about me [https://badhon495.github.io/](https://badhon495.github.io/)
 
-- 📫 How to reach me **https://t.me/badhon495**
+- 📫 Reach me [badhon495](https://t.me/badhon495)
 
 - ⚡ Fun fact **I make memes**
 
