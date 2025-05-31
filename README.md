@@ -5,11 +5,11 @@
   <a href="https://linkedin.com/in/badhon495" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/badhon495" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
   <a href="https://hashnode.com/@badhon495" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
+  <a href="https://anilist.co/user/badhon495/" target="_blank">
+    <img src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff" alt="AniList" />
   </a>
 </p>
 
