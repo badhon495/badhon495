@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Badhon</h1>
 <h3 align="center">A lifeless developer who is trying to fix the bug of his own life</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=badhon495&label=Profile%20views&color=0e75b6&style=flat" alt="badhon495" /> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/badhon495" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/badhon495" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://hashnode.com/@badhon495" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
+</p>
 
 - 🔭 Currently working on [Nirapod](https://github.com/badhon495/Nirapod)
 
@@ -33,20 +43,11 @@
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%636DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://dev.to/https://dev.to/badhon495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/badhon495" height="30" width="40" /></a>
-<a href="https://twitter.com/badhon495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="badhon495" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/badhon495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badhon495" height="30" width="40" /></a>
-<a href="https://fb.com/badhon495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="badhon495" height="30" width="40" /></a>
-<a href="https://hashnode.com/@badhon495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@badhon495" height="30" width="40" /></a>
-</p>
 
 
 <p align="center">
