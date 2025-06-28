@@ -15,6 +15,8 @@
 
 - 🔭 Currently working on [Routine2Calender](https://github.com/badhon495/Routine2Calendar)
 
+- 🌐 Open source contributor at [OpenTelemetry](https://opentelemetry.io/)
+
 - 👨‍💻 Curious about me? Check out my [portfolio](https://badhon495.github.io/)
 
 - 📫 Ping me on Telegram: [@badhon495](https://t.me/badhon495)
