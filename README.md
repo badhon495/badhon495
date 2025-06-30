@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 🔭 Currently working on [Routine2Calender](https://github.com/badhon495/Routine2Calendar)
+- 🔭 Currently working on [OpenShelf](https://github.com/freeCodeCamp-2025-Summer-Hackathon/OpenShelf)
 
 - 🌐 Open source contributor at [OpenTelemetry](https://opentelemetry.io/)
 
