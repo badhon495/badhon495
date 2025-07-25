@@ -8,8 +8,8 @@
   <a href="https://badhon495.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode" />
   </a>
-  <a href="https://anilist.co/user/badhon495/" target="_blank">
-    <img src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff" alt="AniList" />
+  <a href="https://myanimelist.net/profile/badhon495" target="_blank">
+    <img src="https://img.shields.io/badge/MyAnimeList-2d4e9d?logo=myanimelist&logoColor=fff" alt="MyAnimeList" />
   </a>
 </p>
 
