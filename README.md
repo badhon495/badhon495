@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 🔭 Currently working on the [Javafest](www.therapjavafest.com) Project
+- 🔭 Currently working on the [Javafest](www.therapjavafest.com) project
 
 - 🌐 Open source contributor at [OpenTelemetry](https://opentelemetry.io/)
 
