@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 🔭 Currently working on [OpenShelf](https://github.com/freeCodeCamp-2025-Summer-Hackathon/OpenShelf)
+- 🔭 Currently working on the [Javafest](www.therapjavafest.com) Project
 
 - 🌐 Open source contributor at [OpenTelemetry](https://opentelemetry.io/)
 
