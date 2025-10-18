@@ -13,15 +13,10 @@
   </a>
 </p>
 
-- 🔭 Currently working on the [Javafest project](https://www.therapjavafest.com)
-
-- 🌐 Open source contributor at [OpenTelemetry](https://opentelemetry.io/)
 
 - 👨‍💻 Curious about me? Check out my [portfolio](https://badhon495.github.io/)
 
 - 📫 Ping me on Telegram: [@badhon495](https://t.me/badhon495)
-
-- ⚡ Fun fact: I make memes (sometimes they're even funny!)
 
 
 <h2 align="left">Languages and Tools:</h2>
